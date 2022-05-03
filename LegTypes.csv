@@ -1,0 +1,15 @@
+LegID,LegType
+00,Takeoff/Landing
+01,Transit
+02,BCB
+03,ACB
+04,BCT
+05,ACT
+06,MinAlt
+07,Ascent
+08,Descent
+09,Spiral
+10,BBL
+11,ABL
+12,RS
+13,Other
